@@ -1,3 +1,7 @@
+# Objetivos de la actividad
+
+Esta actividad busca mostrarle al estudiante como funciona un programa escrito en Python, y como este puede interactuar con el usuario.
+
 # Descripción de la actividad
 
 Actividad inicial del módulo, que consiste simplemente en copiar y pegar el código suministrado por el profesor, que solicita el nombre del usuario e imprime un mensaje personalizado. El código fue modificado para, además, solicitar la edad del usuario e incluir en el mensaje de bienvenida si es mayor o menor de edad.
