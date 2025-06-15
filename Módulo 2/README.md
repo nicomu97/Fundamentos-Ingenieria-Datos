@@ -2,7 +2,7 @@
 
 En este módulo se sientan las bases de los fundamentos de programación e3n Python que permiten avanzar hacia los siguientes módulos. En esta carpeta se pueden encontrar los desarrollos de los siguientes ejercicios:
 - L1 - El lenguaje Python: Se instala la distribución de anaconda como primer ambiente de programación y se ejecuta el primer programa del curso escrito en Python.
-- M2 AE2-1 - Práctica con Python: Ejercicio de la clase 1 del módulo 2, que consiste en crear un programa que simule cálculadora básica usando los datos ingresados por el usuario.
+- M2 AE1-1 - Práctica con Python: Ejercicio de la clase 1 del módulo 2, que consiste en crear un programa que simule cálculadora básica usando los datos ingresados por el usuario.
 - L2 - Sentencias básicas del lenguaje Python: Se crea un programa que pregunta al usuario su nombre y edad, e imprime un mensaje personalizado para este.
 - M2 AE2-1 - Sentencias básicas en acción: Se crea un programa que pregunta al usuario su nombre, edad y país de residencia, e informa al usuario si puede acceder a un beneficio disponible solo en países concretos.
 - L3 - Funciones y Módulos: Se crea un módulo con utilidades matemáticas que implementa una serie de funciones para cálculos comúnes.
