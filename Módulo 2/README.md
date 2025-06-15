@@ -8,6 +8,7 @@ En este módulo se sientan las bases de los fundamentos de programación e3n Pyt
 - L3 - Funciones y Módulos: Se crea un módulo con utilidades matemáticas que implementa una serie de funciones para cálculos comúnes.
 - M2 AE3-1 - ¡Modela tu proyecto!: Se divide el programa presentado por el profesor en dos archivos: un módulo con las funciones implementadas y un archivo principal que ejecute el simulador de calculadora.
 - L4 - Estructuras de datos en Python y sentencias iterativas: Se implementa un sistema de gestión de inventario utilizando estructuras de datos en Python.
+- L4 - Tarea: Se crea y prueba un analizador financiero que realiza diferentes operaciones sobre listas de transacciones.
 - M2 AE4-1 - Análisis de calificaciones: Se escribe un programa que recibe una lista de calificaciones (0-100), calcula el promedio general y entrega el número de estudiantes que aprobaron.
 - M2 AE4-2 - Directorio de empleados: Se crea un programa que recorre un diccionario de empleados con nombre y edad, imprime los empleados mayores a 30 años, genera una lista de quiénes tienen menos de 30 años e indica cuantos empleados hay en total.
 - L5 - Programación orientada a objetos en Python: Se crea una clase **Persona** con sus atributos y métodos respectivos.
