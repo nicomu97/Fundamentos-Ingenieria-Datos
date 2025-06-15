@@ -100,7 +100,7 @@ class Biblioteca:
             raise ValueError(f"Se espera que catalogo sea un diccionario de libros, pero se recibió {type(catalogo)}")
         for id_libro, libro in catalogo.items():
             if not isinstance(libro, Libro):
-                raise ValueError("Elemento con ID {id_libro} no es de clase Libro, sino de tipo {type(libro)}.")
+                raise ValueError(f"Elemento con ID {id_libro} no es de clase Libro, sino de tipo {type(libro)}.")
         self._catalogo = catalogo
 
     def prestar_libro(self, titulo):
@@ -126,7 +126,7 @@ class Biblioteca:
                 en_catalogo = True
                 break
         if not en_catalogo:
-            raise ValueError("Libro no encontrado: el título {titulo} no se encuentra en el catálogo.")
+            raise ValueError(f"Libro no encontrado: el título {titulo} no se encuentra en el catálogo.")
 
         if libro_prestamo.stock == 0:
             raise LibroNoDisponibleError(libro_prestamo)
