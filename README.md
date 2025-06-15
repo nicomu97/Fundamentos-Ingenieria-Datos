@@ -12,3 +12,5 @@ Los módulos que componen el curso, y en los cuales se ordena este repositorio, 
 - Módulo 7: Introducción al procesamiento distribuido y sistemas bigdata.
 - Módulo 8: Integración de datos.
 - Módulo 9: Tecnología cloud para ingenieros de datos.
+
+Dentro de la carpeta correspondiente a cada módulo se encuentran carpetas que contienen las actividades realizadas en dicho módulo, cada una identificada por el código de la actividad. De momento, solo se encuentran disponibles las actividades desarrolladas a lo largo del módulo 2.
