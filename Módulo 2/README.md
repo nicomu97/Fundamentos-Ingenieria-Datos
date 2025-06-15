@@ -16,4 +16,7 @@ En este módulo se sientan las bases de los fundamentos de programación e3n Pyt
 - L6 - Excepciones en Python: Se crea un programa de calculadora básica que solicita datos al usuario y realiza una validación de dicha información.
 - M2 AE6-1 - Préstamo simple en una biblioteca: Se crea una clase **Libro** y una clase **Biblioteca** que realice validaciones y operaciones en relación a la clase **Libro**.
 
-  Cada ejercicio se almacena en una carpeta dentro de este directorio, cuyo nombre corresponde al código del ejercicio (ej: L1, M2 AE1-1).
+Cada ejercicio se almacena en una carpeta dentro de este directorio, cuyo nombre corresponde al código del ejercicio (ej: L1, M2 AE1-1).
+
+Al finalizar este módulo, logré reforzar mis conocimientos de programación en Python, programación orientada a objetos (POO) y manejo de excepciones, además de potenciar mis habilidades de pensamiento crítico y
+análisis. De esta forma, obtuve una base robusta de conocimientos en este lenguaje y su uso general.
