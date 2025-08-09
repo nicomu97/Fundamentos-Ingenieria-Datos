@@ -99,7 +99,7 @@ En base a lo anterior, a continuación se muestra el diagrama
 entidad-relación correspondiente al diagrama estrella de este modelo de
 datos.
 
-![image](Diagramas/L4_diagrama_er){width="\\textwidth"}
+![image](L4_diagrama_er)
 
 Dicho esquema consiste en las siguientes tablas:
 
