@@ -17,21 +17,16 @@ ha solicitado realizar un proceso completo de preprocesamiento y
 escalamiento de datos. En particular, se nos solicita realizar las
 siguientes tareas:
 
-1.  Analizar el fragmento de datos en la tabla
-    [1](#tab:analisis-vacantes-laborales){reference-type="ref"
-    reference="tab:analisis-vacantes-laborales"} proporcionados por el
+1.  Analizar el fragmento de datos en la siguiente tabla, proporcionados por el
     cliente
 
-    ::: {#tab:analisis-vacantes-laborales}
-      ID   Edad   Ciudad      Ingresos (USD)
-      ---- ------ ----------- ----------------
-      1    25     Madrid      30000
-      2    45     Sevilla     50000
-      3    30     Madrid      NaN
-      4    40     Barcelona   40000
+      |ID  | Edad  | Ciudad     | Ingresos (USD)
+      |----| ------| -----------| ----------------
+      |1   | 25    | Madrid     | 30000
+      |2   | 45    | Sevilla    | 50000
+      |3   | 30    | Madrid     | NaN
+      |4   | 40    | Barcelona  | 40000
 
-      : Datos proporcionados por el cliente.
-    :::
 
 2.  Realizar las siguientes tareas usando Python y Scikit-Learn:
 
