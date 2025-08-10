@@ -81,23 +81,30 @@ se desea utilizar. A continuación, se adjuntan imágenes del proceso
 realizado.
 
 ![Datos originales.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_originales.png)
+Figura 1: Datos originales.
 
 ![Datos imputados.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_imputados.png)
+Figura 2: Datos Imputados.
 
 ![Datos con columna Ciudad codificada con Label
 Encoder.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_label_encoded.png)
+Figura 3: Datos con la columna Ciudad codificada con el método Label Encoding.
 
 ![Datos con columna Ciudad codificada con One-Hot
 Encoder.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_onehot_encoded.png)
+Figura 4: Datos con la columna Ciudad codificada con el método One-Hot Encoding.
 
 ![Datos con columna Ciudad transformada con variables
 Dummy.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_dummy.png)
+Figura 5: Datos con la columna Ciudad codificada con el método de variables Dummy.
 
 ![Datos con columnas Edad e Ingresos escalados con método
 Min-Max.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_escalados_minmax.png)
+Figura 6: Datos escalados con el método Min-Max.
 
 ![Datos con columnas Edad e Ingresos escalados con método
 Z-Score.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_escalados_zscore.png)
+Figura 7: Datos escalados con el método Z-Score.
 
 # Conclusiones
 
@@ -112,10 +119,6 @@ En particular, el escalamiento de datos permite evitar que una variable
 domine por sobre las otras en el modelo solo por tener un orden de
 magnitud mayor. En particular, el método Min-Max nos permite fijar los
 valores de las variables en un intervalo determinado (en nuestro, entre
-0 y 1, como muestra la figura
-[6](#fig:datos-escalados-minmax){reference-type="ref"
-reference="fig:datos-escalados-minmax"}), mientras que el método Z-Score
+0 y 1, como muestra la figura 6, mientras que el método Z-Score
 nos permite fijar la varianza de las variables en 1, y sus promedios en
-0, como muestra la figura
-[7](#fig:datos-escalados-zscore){reference-type="ref"
-reference="fig:datos-escalados-zscore"}.
+0, como muestra la figura 7.
