@@ -80,24 +80,24 @@ sean utilizables por cualquier algoritmo de aprendizaje de máquina que
 se desea utilizar. A continuación, se adjuntan imágenes del proceso
 realizado.
 
-![Datos originales.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_originales.png){#fig:datos-originales}
+![Datos originales.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_originales.png)
 
-![Datos imputados.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_imputados.png){#fig:datos-imputados}
+![Datos imputados.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_imputados.png)
 
 ![Datos con columna Ciudad codificada con Label
-Encoder.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_label_encoded.png){#fig:datos-label-encoded}
+Encoder.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_label_encoded.png)
 
 ![Datos con columna Ciudad codificada con One-Hot
-Encoder.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_onehot_encoded.png){#fig:datos-onehot-encoded}
+Encoder.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_onehot_encoded.png)
 
 ![Datos con columna Ciudad transformada con variables
-Dummy.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_dummy.png){#fig:datos-dummy}
+Dummy.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_dummy.png)
 
 ![Datos con columnas Edad e Ingresos escalados con método
-Min-Max.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_escalados_minmax.png){#fig:datos-escalados-minmax}
+Min-Max.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_escalados_minmax.png)
 
 ![Datos con columnas Edad e Ingresos escalados con método
-Z-Score.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_escalados_zscore.png){#fig:datos-escalados-zscore}
+Z-Score.](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L3/Imagenes/Datos_escalados_zscore.png)
 
 # Conclusiones
 
