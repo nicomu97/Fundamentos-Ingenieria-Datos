@@ -80,7 +80,7 @@ análisis de series de tiempo.
 En la imágen a continuacion se muestra el diagrama de flujo de trabajo
 para este problema.
 
-![Diagrama de Flujo de Trabajo](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L1/L1_diagrama_flujo.drawio)
+![Diagrama de Flujo de Trabajo](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L1/L1_diagrama_flujo.png)
 
 ## Problema B: Detección de abandono de clientes
 
