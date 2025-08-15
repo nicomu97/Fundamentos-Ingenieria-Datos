@@ -17,12 +17,12 @@ particular, se nos solicita realizar las siguientes tareas:
 1.  Analizar el fragmento de datos en la tabla
     1 proporcionados por el cliente
 
-      ID   Antigüedad (años)   Kilometraje (km)   Puertas   Precio (USD)
-      ---- ------------------- ------------------ --------- --------------
-      1    5                   50000              4         12000
-      2    3                   30000              2         15000
-      3    7                   70000              4         9000
-      4    2                   25000              2         16000
+      ID  | Antigüedad (años)  | Kilometraje (km)  | Puertas  | Precio (USD)
+      ----| -------------------| ------------------| ---------| --------------
+      1   | 5                  | 50000             | 4        | 12000
+      2   | 3                  | 30000             | 2        | 15000
+      3   | 7                  | 70000             | 4        | 9000
+      4   | 2                  | 25000             | 2        | 16000
 
     Tabla 1: Datos provistos por el cliente
 
