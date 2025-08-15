@@ -15,10 +15,8 @@ validar y ajustar el modelo antes de ponerlo en producción. En
 particular, se nos solicita realizar las siguientes tareas:
 
 1.  Analizar el fragmento de datos en la tabla
-    [1](#tab:analisis-validacion){reference-type="ref"
-    reference="tab:analisis-validacion"} proporcionados por el cliente
+    1 proporcionados por el cliente
 
-    ::: {#tab:analisis-validacion}
       ID   Antigüedad (años)   Kilometraje (km)   Puertas   Precio (USD)
       ---- ------------------- ------------------ --------- --------------
       1    5                   50000              4         12000
@@ -26,26 +24,25 @@ particular, se nos solicita realizar las siguientes tareas:
       3    7                   70000              4         9000
       4    2                   25000              2         16000
 
-      : Datos proporcionados por el cliente.
-    :::
+    Tabla 1: Datos provistos por el cliente
 
-2.  Crear un modelo de regresión lineal para predecir el precio en
+3.  Crear un modelo de regresión lineal para predecir el precio en
     función de variables: Antigüedad, Kilometraje y Puertas.
 
-3.  Dividir los datos en un conjunto de entrenamiento y prueba
+4.  Dividir los datos en un conjunto de entrenamiento y prueba
     (80%-20%).
 
-4.  Entrenar el modelo y realizar las predicciones correspondientes.
+5.  Entrenar el modelo y realizar las predicciones correspondientes.
 
-5.  Calcular las métricas de desempeño: MAE, MSE, RMSE y R$^2$.
+6.  Calcular las métricas de desempeño: MAE, MSE, RMSE y R$^2$.
 
-6.  Analizar los resultados y responder:
+7.  Analizar los resultados y responder:
 
     -   ¿Qué tan preciso es el modelo?
 
     -   ¿Qué decisiones tomarías para mejorar su desempeño?
 
-7.  Realizar un gráfico comparativo de los precios reales y los
+8.  Realizar un gráfico comparativo de los precios reales y los
     predichos.
 
 # Análisis del caso
@@ -94,14 +91,13 @@ muestra excepcional, su comportamiento se podría volver inestable en un
 entorno real, dada la pequeña cantidad de datos usadas en su
 entrenamiento.
 
-En la figura [1](#fig:comparativo){reference-type="ref"
-reference="fig:comparativo"} se muestra un gráfico comparativo de los
+En la figura 1 se muestra un gráfico comparativo de los
 precios reales de los vehículos contra sus precios predichos por el
 modelo.
 
-![Comparación entre precios reales vs precios
-predichos.](Imagenes/real_vs_predicho){#fig:comparativo
-width="\\textwidth"}
+![Precios Reales vs Predichos](https://github.com/nicomu97/Fundamentos-Ingenieria-Datos/blob/main/M%C3%B3dulo%206/L6/Imagenes/real_vs_predicho.png)
+
+Figura 1: Comparación entre precios reales vs precios predichos.
 
 # Conclusiones
 
